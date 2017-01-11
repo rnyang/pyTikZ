@@ -1,0 +1,4 @@
+1. save as image (write to tex file, convert to image)
+2. any way to display in jupyter notebook?
+3. shading (useful for CV / EV)
+4. real tikz axes instead of my fake ones
